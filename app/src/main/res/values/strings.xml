@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="graph">Graph</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="delete">Delete</string>
+</resources>
